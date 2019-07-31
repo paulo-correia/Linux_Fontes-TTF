@@ -1,7 +1,7 @@
 # Fontes-TTF
 Instalação de Fontes TTF
 
-Como **root ** criar uma pasta em **/usr/share/fonts/truetype/**
+Como **root** criar uma pasta em **/usr/share/fonts/truetype/**
 
 Ex: teste
 
